@@ -3,6 +3,8 @@ This repo is for practice of GitHub Flow
 Hello my name is vivek and this is 18-03-2026
 
 
+
+
 3 Takeaways from company :
 
 a>	366Pi 
@@ -34,3 +36,16 @@ At first the jira ticket task  is completed .
 Testing is done by the testing team and FOU is created by the testing team to the end user.
 Then they approve the fou certification. 
 If any issues is found or task is required for addition, then another jira ticket with the respective tags like “Bug”  are generated and further resolved by the team or the issuee. 
+
+
+
+W1 4: setup essential dev tools
+  	Git Desktop 
+  	Git Version :  git version 2.51.0.windows.2
+  	Postman and Thunder Client 
+  	NPM : 11.6.2
+  	Node Version: v24.10.0
+  	Docker Desktop : 29.2.1
+
+
+
